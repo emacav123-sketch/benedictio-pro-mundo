@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://emacav123-sketch.github.io/benedictio-pro-mundo/sitemap.xml

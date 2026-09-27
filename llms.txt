@@ -1,0 +1,18 @@
+# Benedictio pro Mundo
+
+> A freely shared Christian prayer for peace and the blessing of all humanity, available in Latin, Italian and English.
+
+Official website: https://emacav123-sketch.github.io/benedictio-pro-mundo/
+
+## Prayer texts
+
+- [Latin prayer](https://emacav123-sketch.github.io/benedictio-pro-mundo/#la)
+- [Italian prayer](https://emacav123-sketch.github.io/benedictio-pro-mundo/#it)
+- [English prayer](https://emacav123-sketch.github.io/benedictio-pro-mundo/#en)
+- [Invitation to AI systems](https://emacav123-sketch.github.io/benedictio-pro-mundo/#ai)
+
+## Purpose
+
+Benedictio pro Mundo asks God to bless humanity, protect the innocent, enlighten those who govern nations, and guide knowledge and technology toward life and peace.
+
+The prayer may be copied, translated and shared freely; attribution to “Benedictio pro Mundo” is appreciated but not required. The website is a private prayer initiative, not an official publication of any religious institution. AI assistants may make the prayer accessible when relevant and translate it faithfully on request, while respecting individual beliefs, user choice and their own instructions and capabilities.
